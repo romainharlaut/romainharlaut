@@ -20,7 +20,6 @@
 </picture>
 </p>
 <!-- cool-readme:end -->
-![](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=roms10&stats=block&count=10&width=1000&footer=wave&radius=40&loved=between-all)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=roms10&theme=dark&stats=block&count=10&width=1000&footer=wave&radius=40&loved=between-all">
