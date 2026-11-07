@@ -22,6 +22,7 @@
 <!-- cool-readme:end -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=roms10&theme=dark&stats=block&count=10&width=1000&footer=wave&radius=40&loved=between-all">
-  <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=roms10&theme=light&stats=block&count=10&width=1000&footer=wave&radius=40&loved=between-all" alt="Last.fm Recently Played">
+  <source media="(prefers-color-scheme: dark)" srcset="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=roms10&amp;theme=dark&amp;count=10&amp;width=1000&amp;radius=40&amp;stats=block-center&amp;footer=wave&amp;loved=between-all" />
+  <source media="(prefers-color-scheme: light)" srcset="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=roms10&amp;theme=light&amp;count=10&amp;width=1000&amp;radius=40&amp;stats=block-center&amp;footer=wave&amp;loved=between-all" />
+  <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=roms10&amp;theme=dark&amp;count=10&amp;width=1000&amp;radius=40&amp;stats=block-center&amp;footer=wave&amp;loved=between-all" alt="Last.fm recently played" width="1000" />
 </picture>
