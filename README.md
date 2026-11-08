@@ -1,22 +1,23 @@
 <!-- cool-readme:start -->
+<!-- Cards by github-cool-readme: https://github.com/pedrocatalao/github-cool-readme -->
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romainharlaut/romainharlaut/cards/summary-dark.svg">
-  <img src="https://raw.githubusercontent.com/romainharlaut/romainharlaut/cards/summary-light.svg" width="450" alt="GitHub stats">
+  <img src="https://raw.githubusercontent.com/romainharlaut/romainharlaut/cards/summary-light.svg" width="400" alt="GitHub stats">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romainharlaut/romainharlaut/cards/languages-dark.svg">
-  <img src="https://raw.githubusercontent.com/romainharlaut/romainharlaut/cards/languages-light.svg" width="350" alt="Most used languages">
+  <img src="https://raw.githubusercontent.com/romainharlaut/romainharlaut/cards/languages-light.svg" width="400" alt="Most used languages">
 </picture>
 </p>
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romainharlaut/romainharlaut/cards/contributions-dark.svg">
-  <img src="https://raw.githubusercontent.com/romainharlaut/romainharlaut/cards/contributions-light.svg" width="450" alt="Notable contributions">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romainharlaut/romainharlaut/cards/weekly-dark.svg">
+  <img src="https://raw.githubusercontent.com/romainharlaut/romainharlaut/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romainharlaut/romainharlaut/cards/weekly-dark.svg">
-  <img src="https://raw.githubusercontent.com/romainharlaut/romainharlaut/cards/weekly-light.svg" width="350" alt="Weekly rhythm">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romainharlaut/romainharlaut/cards/streaks-dark.svg">
+  <img src="https://raw.githubusercontent.com/romainharlaut/romainharlaut/cards/streaks-light.svg" width="400" alt="Streaks">
 </picture>
 </p>
 <!-- cool-readme:end -->
