@@ -1,6 +1,10 @@
 # Settings: https://github.com/pedrocatalao/github-cool-readme#settings
 user: romainharlaut
-style: classic
-include:
+count:
   private: true
   orgs: true
+look:
+  style: classic
+  color: github
+  background: none
+show: [summary, languages, weekly, streaks]
