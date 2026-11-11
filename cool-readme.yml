@@ -7,4 +7,4 @@ look:
   style: classic
   color: github
   background: none
-show: [summary, languages, weekly, streaks]
+show: [languages, summary, weekly, streaks]

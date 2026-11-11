@@ -2,12 +2,12 @@
 <!-- Cards by github-cool-readme: https://github.com/pedrocatalao/github-cool-readme -->
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romainharlaut/romainharlaut/cards/summary-dark.svg">
-  <img src="https://raw.githubusercontent.com/romainharlaut/romainharlaut/cards/summary-light.svg" width="400" alt="GitHub stats">
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romainharlaut/romainharlaut/cards/languages-dark.svg">
   <img src="https://raw.githubusercontent.com/romainharlaut/romainharlaut/cards/languages-light.svg" width="400" alt="Most used languages">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romainharlaut/romainharlaut/cards/summary-dark.svg">
+  <img src="https://raw.githubusercontent.com/romainharlaut/romainharlaut/cards/summary-light.svg" width="400" alt="GitHub stats">
 </picture>
 </p>
 <p align="center">
