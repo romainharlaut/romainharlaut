@@ -16,12 +16,6 @@
   <img src="https://raw.githubusercontent.com/romainharlaut/romainharlaut/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romainharlaut/romainharlaut/cards/repos-dark.svg">
-  <img src="https://raw.githubusercontent.com/romainharlaut/romainharlaut/cards/repos-light.svg" width="400" alt="Top repos">
-</picture>
-</p>
-<p align="center">
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romainharlaut/romainharlaut/cards/streaks-dark.svg">
   <img src="https://raw.githubusercontent.com/romainharlaut/romainharlaut/cards/streaks-light.svg" width="400" alt="Streaks">
 </picture>
